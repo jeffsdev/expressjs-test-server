@@ -1,5 +1,5 @@
 # Express.js Test Server
-This is a simple Express.js server that will serve up a tiny test website.  Created to learn and play around with Node.js and the Express.js framework. 
+This is a simple Express.js server that will serve up a tiny test website. The site is a simple CRUD app with an API.  Created to learn and play around with Node.js, the Express.js framework for Node, and creating a custom API. 
 
 ### Usage
 1.  Clone Repository
