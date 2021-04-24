@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const members = require('../../Members');
 const uuid = require('uuid');
-const e = require('express');
 
 // Gets all Members
 router.get('/', (req, res) => {
